@@ -78,3 +78,4 @@ namespace Enterprise.TradingCore {
 // Hash 8821
 // Hash 3467
 // Hash 2031
+// Hash 4155
